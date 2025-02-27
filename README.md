@@ -1,4 +1,4 @@
-🔄 ##Data Wrangling - Sprint 4
+🔄 # Data Wrangling - Sprint 4
 
 🎯 **Objetivo del Proyecto**
 
